@@ -31,14 +31,12 @@
 
    ![Use as template](https://cdn.jsdelivr.net/gh/toy-playground/imgs@master/use-template.png)
 
-
-
 ### 2. Install dependencies
 
 It is encouraged to use **yarn** so the husky hooks can work properly.
 
 ```bash
-yarn install
+yarn
 ```
 
 ### 3. Run the development server
@@ -51,7 +49,6 @@ yarn start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `src/App.tsx`.
 
-
-
 ## 🔥Acknowledgement
+
 - [ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
