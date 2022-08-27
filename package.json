@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/toy-playground/craco-ts-template/issues"
   },
-  "homepage": "https://github.com/toy-playground/craco-ts-template#readme",
+  "homepage": ".",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
