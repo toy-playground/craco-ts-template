@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> craco-ts-template</h1>
+  <h1>craco-ts-template</h1>
   <p>Made by <a href="https://github/com/Dreamerryao">Dreamerryao</a></p>
   
   
@@ -37,6 +37,12 @@ It is encouraged to use **yarn** so the husky hooks can work properly.
 
 ```bash
 yarn
+```
+
+You also need add git hooks.
+
+```bash
+yarn prepare
 ```
 
 ### 3. Run the development server
