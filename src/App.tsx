@@ -1,8 +1,14 @@
 import '@/App.css';
 
+import Button from '@/components/Button';
+
 import logo from '@/logo.svg';
 
+const HOMEPAGE_URL = 'https://github.com/toy-playground/craco-ts-template';
 function App() {
+  const linkToHome = () => {
+    window.open(HOMEPAGE_URL);
+  };
   return (
     <div className='App'>
       <header className='App-header'>
@@ -22,6 +28,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <Button onClick={linkToHome}>
+          And this is a button link to github.
+        </Button>
       </header>
     </div>
   );
