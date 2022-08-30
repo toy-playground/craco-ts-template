@@ -1,6 +1,6 @@
 <div align="center">
   <h1>craco-ts-template</h1>
-  <p>Made by <a href="https://github/com/Dreamerryao">Dreamerryao</a></p>
+  <p>Made by <a href="https://github.com/Dreamerryao">Dreamerryao</a></p>
   
   
   [![CodeFactor](https://www.codefactor.io/repository/github/toy-playground/craco-ts-template/badge/main)](https://www.codefactor.io/repository/github/toy-playground/craco-ts-template/overview/main)
